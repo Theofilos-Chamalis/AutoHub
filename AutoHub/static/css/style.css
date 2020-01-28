@@ -4571,9 +4571,12 @@ footer {
 .badge-pink {
     background-color: #ff214f;
     color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 22px;
     margin-left: 40%;
     margin-right: 40%;
-    border-radius: 10px;
+    border-radius: 26px;
 }
 
 .badge-purple {

@@ -63,7 +63,7 @@
                         <a class="nav-link dropdown-toggle" href="http://127.0.0.1:8000/cars/">
                             Car Listing
                         </a>
-                     <li class="nav-item dropdown active">
+                    <li class="nav-item dropdown active">
                         <a class="nav-link dropdown-toggle" href="http://127.0.0.1:8000/sellers/">
                             Sellers
                         </a>
@@ -81,38 +81,39 @@
 <!-- Main header end -->
 
 {% block content %}
-<!-- Blog body start -->
-<div class="blog-body content-area-4">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-md-12">
-                <!-- Blog 1 start -->
-                <div class="blog-1 blog-big mb-50">
-                    <div class="blog-photo">
-                        <img src="{{manufacturer.cover2.url}}" alt="blog-img" class="img-fluid">
-                    </div>
-                    <div class="detail">
-                        <h3>
-                            {% if manufacturer.brand %}
-                             {{ manufacturer.brand }}
+    <!-- Blog body start -->
+    <div class="blog-body content-area-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-12">
+                    <!-- Blog 1 start -->
+                    <div class="blog-1 blog-big mb-50">
+                        <div class="blog-photo">
+                            <img src="{{ manufacturer.cover2.url }}" alt="blog-img" class="img-fluid">
+                        </div>
+                        <div class="detail">
+                            <h3>
+                                {% if manufacturer.brand %}
+                                    {{ manufacturer.brand }}
+                                {% endif %}
+                            </h3>
+                            <p> Established: {{ manufacturer.established }}</p>
+
+                            {% if manufacturer.country %}
+
+                                <p>Originated Country: {{ manufacturer.country }}</p>
                             {% endif %}
-                        </h3>
-                        <p> Established: {{ manufacturer.established}}</p>
 
-                        {% if manufacturer.country %}
+                            {% if manufacturer.seller %}
+                                <p>{{ manufacturer.description | linebreaksbr }}</p>
+                            {% endif %}
+                            <br>
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                    <div class="blog-social-list">
 
-                        <p>Originated Country: {{ manufacturer.country }}</p>
-                        {% endif %}
-
-                        {% if manufacturer.seller %}
-                        <p>{{ manufacturer.description | linebreaksbr }}</p>
-                        {% endif %}
-                         <br>
-                        <div class="row clearfix">
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                                <div class="blog-social-list">
-
-                                    <span> Exclusive Seller: {{manufacturer.seller}}</span>
+                                        <span> Exclusive Seller: {{ manufacturer.seller }}</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +122,6 @@
             </div>
         </div>
     </div>
-</div>
 
 {% endblock %}
 
@@ -171,7 +171,8 @@
                 </div>
             </div>
             <div class="col-xl-12 col-lg-12">
-                <p class="copy sub-footer">© 2020 <a href="#">Ευδοξία Δεληγιάννη.</a> Project για το μάθημα ΑΝΑΠΤΥΞΗ ΛΟΓΙΣΜΙΚΟΥ.</p>
+                <p class="copy sub-footer">© 2020 <a href="#">Ευδοξία Δεληγιάννη.</a> Project για το μάθημα ΑΝΑΠΤΥΞΗ
+                    ΛΟΓΙΣΜΙΚΟΥ.</p>
             </div>
         </div>
     </div>

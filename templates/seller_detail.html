@@ -63,7 +63,7 @@
                         <a class="nav-link dropdown-toggle" href="http://127.0.0.1:8000/cars/">
                             Car Listing
                         </a>
-                     <li class="nav-item dropdown active">
+                    <li class="nav-item dropdown active">
                         <a class="nav-link dropdown-toggle" href="http://127.0.0.1:8000/sellers/">
                             Sellers
                         </a>
@@ -80,49 +80,52 @@
 </header>
 <!-- Main header end -->
 {% block content %}
-<div class="agent-page content-area">
-    <div class="container">
-        <!-- Heading -->
-        <h1 class="heading-2">Seller Details</h1>
-        <div class="row">
-            <div class="col-lg-8">
-                <div class="row team-2 mb-50">
-                    <div class="col-xl-5 col-lg-6 col-md-5 col-sm-12 col-pad ">
-                        <div class="photo">
-                            {% if seller.photo %}
-                            <img src="{{seller.photo.url}}" alt="avatar-9" class="img-fluid">
-                            {% endif %}
+    <div class="agent-page content-area">
+        <div class="container">
+            <!-- Heading -->
+            <h1 class="heading-2">Seller Details</h1>
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="row team-2 mb-50">
+                        <div class="col-xl-5 col-lg-6 col-md-5 col-sm-12 col-pad ">
+                            <div class="photo">
+                                {% if seller.photo %}
+                                    <img src="{{ seller.photo.url }}" alt="avatar-9" class="img-fluid">
+                                {% endif %}
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-xl-7 col-lg-6 col-md-7 col-sm-12 col-pad align-self-center bg">
-                        <div class="detail">
-                            {% if seller.last_name %}
-                            <h4>
-                                {{ seller.last_name }} {{ seller.name }}
-                            </h4>
-                            {% endif %}
-                            <h5> Salles Manager for {{seller.working_brand}}</h5>
-                            <div class="contact">
-                                <ul>
-                                    <li>
-                                        <i class="flaticon-pin"></i><a>{{ seller.adress }}</a>
-                                    </li>
-                                    <li>
-                                        <i class="flaticon-road"></i>{{ seller.city }}, Post Code: {{ seller.post_code }}
-                                    </li>
-                                    <li>
-                                        <i class="flaticon-mail"></i><a href="mailto:info@autohub.com">{{ seller.Email }}</a>
-                                    </li>
-                                    <li>
-                                        <i class="flaticon-phone"></i> {{ seller.phone }}
-                                    </li>
-                                    <li>
-                                        <i class="flaticon-phone"></i> {{ seller.mob_phone }}
-                                    </li>
-                                    <li>
-                                        <i class="flaticon-calendar"></i>{{ seller.birth_date }}
-                                    </li>
-                                </ul>
+                        <div class="col-xl-7 col-lg-6 col-md-7 col-sm-12 col-pad align-self-center bg">
+                            <div class="detail">
+                                {% if seller.last_name %}
+                                    <h4>
+                                        {{ seller.last_name }} {{ seller.name }}
+                                    </h4>
+                                {% endif %}
+                                <h5> Salles Manager for {{ seller.working_brand }}</h5>
+                                <div class="contact">
+                                    <ul>
+                                        <li>
+                                            <i class="flaticon-pin"></i><a>{{ seller.adress }}</a>
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-road"></i>{{ seller.city }}, Post
+                                            Code: {{ seller.post_code }}
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-mail"></i><a
+                                                href="mailto:info@autohub.com">{{ seller.Email }}</a>
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-phone"></i> {{ seller.phone }}
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-phone"></i> {{ seller.mob_phone }}
+                                        </li>
+                                        <li>
+                                            <i class="flaticon-calendar"></i>{{ seller.birth_date }}
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -130,7 +133,6 @@
             </div>
         </div>
     </div>
-</div>
 {% endblock %}
 
 

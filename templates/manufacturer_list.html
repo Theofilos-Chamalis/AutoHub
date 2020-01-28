@@ -104,16 +104,17 @@
                             <div class="col-lg-8 col-md-7 col-pad align-self-center">
                                 <div class="detail">
                                     <h1 class="title">
-                                        <a href="{% url 'manufacturer_detail' pk=manufacturer.pk %}">{{manufacturer.brand}}</a>
+                                        <a href="{% url 'manufacturer_detail' pk=manufacturer.pk %}">{{ manufacturer.brand }}</a>
                                     </h1>
                                     {% if manufacturer.country %}
-                                    <div class="location">
-                                        <i class="flaticon-pin"><a href="{% url 'manufacturer_list' %}?cat1={{ manufacturer.country_id }}">{{ manufacturer.country }}</a></i>
-                                    </div>
+                                        <div class="location">
+                                            <i class="flaticon-pin"><a
+                                                    href="{% url 'manufacturer_list' %}?cat1={{ manufacturer.country_id }}">{{ manufacturer.country }}</a></i>
+                                        </div>
                                     {% endif %}
                                     <ul class="facilities-list clearfix">
                                         <li>
-                                            <i class="fa fa-check"></i>  Exclusive seller: {{ manufacturer.seller}}
+                                            <i class="fa fa-check"></i> Exclusive seller: {{ manufacturer.seller }}
                                         </li>
                                     </ul>
                                 </div>
@@ -177,23 +178,23 @@
                     </h4>
                     <div class="row row2">
                         <div class="col-sm-4">
-                        <form type="get" action=".">
-                            <input type="text" name="txt">
-                            <input  type="submit" value="Submit">
-                        </form>
+                            <form type="get" action=".">
+                                <input type="text" name="txt">
+                                <input type="submit" value="Submit">
+                            </form>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-xl-12 col-lg-12">
-                <p class="copy sub-footer">© 2020 <a href="#">Ευδοξία Δεληγιάννη.</a> Project για το μάθημα ΑΝΑΠΤΥΞΗ ΛΟΓΙΣΜΙΚΟΥ.</p>
+                <p class="copy sub-footer">© 2020 <a href="#">Ευδοξία Δεληγιάννη.</a> Project για το μάθημα ΑΝΑΠΤΥΞΗ
+                    ΛΟΓΙΣΜΙΚΟΥ.</p>
             </div>
         </div>
     </div>
 </footer>
 
 <!-- Footer end -->
-
 
 
 <script src="{% static 'js/jquery-2.2.0.min.js' %}"></script>
