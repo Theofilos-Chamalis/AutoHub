@@ -1654,7 +1654,7 @@ input[type=checkbox]:checked + label:before {
 
 /** Main title start **/
 .main-title {
-    margin-bottom: 50px;
+    margin-bottom: 16px;
     text-align: center;
 }
 
@@ -6498,6 +6498,8 @@ table {
 
     .main-title {
         margin-bottom: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
 
     .main-title-2 {

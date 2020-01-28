@@ -115,7 +115,7 @@
                                         {% if car.Fuel %}
                                             <li>
                                                 <i class="flaticon-fuel"></i>
-                                                <a href="{% url 'car_list' %}?cat={{ car.Fuel_id }}">{{ car.Fuel }} </a>
+                                                <a href="{% url 'car_list' %}?cat={{ car.Fuel_id }}"> {{ car.Fuel }} </a>
                                             </li>
                                         {% endif %}
                                         <li>
@@ -128,7 +128,7 @@
                                             <i class="flaticon-car"></i> {{ car.Car_Category }}
                                         </li>
                                         <li>
-                                            <i class="flaticon-manual-transmission"></i>{{ car.Transmission }}
+                                            <i class="flaticon-manual-transmission"></i> {{ car.Transmission }}
                                         </li>
                                     </ul>
                                 </div>
