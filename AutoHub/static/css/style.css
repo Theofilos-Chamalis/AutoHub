@@ -1865,12 +1865,13 @@ input[type=checkbox]:checked + label:before {
 
 /** Car box 2 start **/
 .car-box-2 {
-    box-shadow: 0 0 10px 1px rgba(71, 85, 95, .08);
-    -webkit-box-shadow: 0 0 10px 1px rgba(71, 85, 95, .08);
-    -moz-box-shadow: 0 0 10px 1px rgba(71, 85, 95, .08);
+    box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
     position: relative;
     margin-bottom: 30px;
     overflow: hidden;
+    border-radius: 10px;
 }
 
 .car-box-2 .detail .title {
@@ -2190,6 +2191,9 @@ input[type=checkbox]:checked + label:before {
     height: 290px;
     margin-left: 28px;
     border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
 }
 
 .team-1 .team-details {
@@ -2199,7 +2203,9 @@ input[type=checkbox]:checked + label:before {
     margin: -30px 5% 30px 5%;
     padding: 20px 20px 15px;
     background: #fff;
-    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
     z-index: 4;
     border-radius: 5px;
 }
