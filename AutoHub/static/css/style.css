@@ -1868,10 +1868,10 @@ input[type=checkbox]:checked + label:before {
     box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
     -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
     -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    border-radius: 10px;
     position: relative;
     margin-bottom: 30px;
     overflow: hidden;
-    border-radius: 10px;
 }
 
 .car-box-2 .detail .title {
@@ -2402,18 +2402,22 @@ input[type=checkbox]:checked + label:before {
 /** Blog 1 start **/
 .blog-1 {
     margin-bottom: 30px;
-    border-radius: 0;
     border: none;
-    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    border-radius: 10px;
     background: #fff;
 }
 
 .blog-1 .blog-photo {
     position: relative;
+    border-radius: 10px;
 }
 
 .blog-1 .blog-photo img {
     width: 100%;
+    border-radius: 10px;
 }
 
 .blog-1 .detail h4 {
@@ -2541,9 +2545,6 @@ input[type=checkbox]:checked + label:before {
 }
 
 /** Blog big start **/
-.blog-big:hover {
-    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
-}
 
 .blog-big .detail {
     padding: 30px 20px 20px;
