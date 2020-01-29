@@ -2264,10 +2264,10 @@ input[type=checkbox]:checked + label:before {
 .team-2 {
     margin: 0 1px;
     margin-bottom: 30px;
-}
-
-.team-2:hover {
-    box-shadow: none;
+    box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    border-radius: 10px;
 }
 
 .team-2 .detail {
@@ -2280,6 +2280,7 @@ input[type=checkbox]:checked + label:before {
 
 .team-2 img {
     width: 100%;
+    border-radius: 10px;
 }
 
 .team-2 .detail h5 {
@@ -4759,6 +4760,13 @@ footer {
     font-weight: 600;
     margin-right: 5px;
     background: #fff;
+}
+
+.car-details-section {
+    box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -webkit-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(71, 85, 95, 0.4);
+    border-radius: 10px;
 }
 
 /** Car details sliders start **/

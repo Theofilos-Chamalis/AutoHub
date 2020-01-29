@@ -91,125 +91,128 @@
 <!-- Car details page start -->
 {% block content %}
     <div class="car-details-page content-area-6">
-    <div class="container">
-    <div class="row">
-    <div class="col-lg-8 col-md-12 col-xs-12">
-    <div class="car-details-section">
-    <div id="carDetailsSlider" class="carousel car-details-sliders slide mb-40">
-        <!-- main slider carousel items -->
-        <div class="carousel-inner">
-            <div class="active item carousel-item" data-slide-number="0">
-                {% if car.cover %}
-                    <img src="{{ car.cover.url }}" class="img-fluid" alt="slider-car">
-                    </div>
-                    <div class="item carousel-item" data-slide-number="1">
-                        <img src="{{ car.cover1.url }}" class="img-fluid" alt="slider-car">
-                    </div>
-                    <div class="item carousel-item" data-slide-number="2">
-                        <img src="{{ car.cover2.url }}" class="img-fluid" alt="slider-car">
-                    </div>
-                    </div>
-                    <!-- main slider carousel nav controls -->
-                    <ul class="carousel-indicators car-properties list-inline nav nav-justified">
-                        <li class="list-inline-item active">
-                            <a id="carousel-selector-0" class="selected" data-slide-to="0"
-                               data-target="#carDetailsSlider">
-                                <img src="{{ car.cover.url }}" class="img-fluid" alt="small-car">
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a id="carousel-selector-1" data-slide-to="1" data-target="#carDetailsSlider">
-                                <img src="{{ car.cover1.url }}" class="img-fluid" alt="small-car">
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a id="carousel-selector-2" data-slide-to="2" data-target="#carDetailsSlider">
-                                <img src="{{ car.cover2.url }}" class="img-fluid" alt="small-car">
-                            </a>
-                        </li>
-                    </ul>
-                {% endif %}
-        <div class="heading-car-2">
-            {% if car.title %}
-                <h3>{{ car.title }}</h3>
-            {% endif %}
-        </div>
-    </div>
-    <!-- Tabbing box start -->
-    <div class="tabbing tabbing-box mb-40">
-        <ul class="nav nav-tabs" id="carTab" role="tablist">
-            <li class="nav-item">
-                <a class="nav-link active show" id="one-tab" data-toggle="tab" href="#one" role="tab"
-                   aria-controls="one" aria-selected="false">Description</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="6-tab" data-toggle="tab" href="#6" role="tab" aria-controls="6"
-                   aria-selected="true">Specifications</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="4-tab" data-toggle="tab" href="#4" role="tab" aria-controls="4"
-                   aria-selected="true">Video</a>
-            </li>
-        </ul>
-        <div class="tab-content" id="carTabContent">
-            <div class="tab-pane fade active show" id="one" role="tabpanel" aria-labelledby="one-tab">
-                <div class="car-description mb-50">
-                    <h3 class="heading-2">
-                        Description
-                    </h3>
-                    <p>{{ car.text|linebreaks }}</p>
-                </div>
-            </div>
-            <div class="tab-pane fade " id="6" role="tabpanel" aria-labelledby="6-tab">
-                <div class="car-amenities mb-30">
-                    <h3 class="heading-2">Specifications</h3>
-                    <div class="row">
-                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                            <ul class="amenities">
-                                <li>
-                                    <i class="fa fa-check"></i> Transmission: {{ car.Transmission }}
-                                </li>
-                                {% if car.Fuel %}
-                                    <li>
-                                        <i class="fa fa-check"></i>Fuel Type: {{ car.Fuel }}
-                                    </li>
+        <div class="container">
+            <div class="row" style="justify-content: center">
+                <div class="col-lg-8 col-md-12 col-xs-12">
+                    <div class="car-details-section">
+                        <div id="carDetailsSlider" class="carousel car-details-sliders slide mb-40">
+                            <!-- main slider carousel items -->
+                            <div class="carousel-inner">
+                                <div class="active item carousel-item" data-slide-number="0">
+                                    {% if car.cover %}
+                                        <img src="{{ car.cover.url }}" class="img-fluid" alt="slider-car">
+                                        </div>
+                                        <div class="item carousel-item" data-slide-number="1">
+                                            <img src="{{ car.cover1.url }}" class="img-fluid" alt="slider-car">
+                                        </div>
+                                        <div class="item carousel-item" data-slide-number="2">
+                                            <img src="{{ car.cover2.url }}" class="img-fluid" alt="slider-car">
+                                        </div>
+                                        </div>
+                                        <!-- main slider carousel nav controls -->
+                                        <ul class="carousel-indicators car-properties list-inline nav nav-justified">
+                                            <li class="list-inline-item active">
+                                                <a id="carousel-selector-0" class="selected" data-slide-to="0"
+                                                   data-target="#carDetailsSlider">
+                                                    <img src="{{ car.cover.url }}" class="img-fluid" alt="small-car">
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a id="carousel-selector-1" data-slide-to="1"
+                                                   data-target="#carDetailsSlider">
+                                                    <img src="{{ car.cover1.url }}" class="img-fluid" alt="small-car">
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a id="carousel-selector-2" data-slide-to="2"
+                                                   data-target="#carDetailsSlider">
+                                                    <img src="{{ car.cover2.url }}" class="img-fluid" alt="small-car">
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    {% endif %}
+                            <div class="heading-car-2">
+                                {% if car.title %}
+                                    <h3>{{ car.title }}</h3>
                                 {% endif %}
-                                <li>
-                                    <i class="fa fa-check"></i>Category Car: {{ car.Car_Category }}
+                            </div>
+                        </div>
+                        <!-- Tabbing box start -->
+                        <div class="tabbing tabbing-box mb-40"
+                             style="padding-left: 20px; padding-right: 20px; padding-bottom: 2px">
+                            <ul class="nav nav-tabs" id="carTab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active show" id="one-tab" data-toggle="tab" href="#one"
+                                       role="tab"
+                                       aria-controls="one" aria-selected="false">Description</a>
                                 </li>
-                                <li>
-                                    <i class="fa fa-check"></i>Year: {{ car.Year }}
+                                <li class="nav-item">
+                                    <a class="nav-link" id="6-tab" data-toggle="tab" href="#6" role="tab"
+                                       aria-controls="6"
+                                       aria-selected="true">Specifications</a>
                                 </li>
-                                <li>
-                                    <i class="fa fa-check"></i>Brand: {{ car.brand }}
+                                <li class="nav-item">
+                                    <a class="nav-link" id="4-tab" data-toggle="tab" href="#4" role="tab"
+                                       aria-controls="4"
+                                       aria-selected="true">Video</a>
                                 </li>
                             </ul>
+                            <div class="tab-content" id="carTabContent">
+                                <div class="tab-pane fade active show" id="one" role="tabpanel"
+                                     aria-labelledby="one-tab">
+                                    <div class="car-description mb-50">
+                                        <h3 class="heading-2">
+                                            Description
+                                        </h3>
+                                        <p>{{ car.text|linebreaks }}</p>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade " id="6" role="tabpanel" aria-labelledby="6-tab">
+                                    <div class="car-amenities mb-30">
+                                        <h3 class="heading-2">Specifications</h3>
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <ul class="amenities">
+                                                    <li>
+                                                        <i class="fa fa-check"></i> Transmission: {{ car.Transmission }}
+                                                    </li>
+                                                    {% if car.Fuel %}
+                                                        <li>
+                                                            <i class="fa fa-check"></i>Fuel Type: {{ car.Fuel }}
+                                                        </li>
+                                                    {% endif %}
+                                                    <li>
+                                                        <i class="fa fa-check"></i>Car Category: {{ car.Car_Category }}
+                                                    </li>
+                                                    <li>
+                                                        <i class="fa fa-check"></i>Year: {{ car.Year }}
+                                                    </li>
+                                                    <li>
+                                                        <i class="fa fa-check"></i>Brand: {{ car.brand }}
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade " id="4" role="tabpanel" aria-labelledby="4-tab">
+                                    <div class="inside-car mb-50">
+                                        <h3 class="heading-2">
+                                            Video
+                                        </h3>
+                                        <iframe src="{{ car.video }}" allowfullscreen=""></iframe>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+                        <!-- Heading 2 -->
+
                     </div>
-                </div>
-            </div>
-            <div class="tab-pane fade " id="4" role="tabpanel" aria-labelledby="4-tab">
-                <div class="inside-car mb-50">
-                    <h3 class="heading-2">
-                        Video
-                    </h3>
-                    <iframe src="{{ car.video }}" allowfullscreen=""></iframe>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Heading 2 -->
-
-
-
-
 {% endblock %}
-</div>
-</div>
-</div>
-</div>
-</div>
-
 
 <!-- Footer start -->
 <footer class="footer">
