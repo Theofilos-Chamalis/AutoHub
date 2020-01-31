@@ -3,244 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5ff00e70-3f5f-4bae-b75d-006aeea5003b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/img/black-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/img/logos/black-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/img/logos/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/img/logos/logo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/AutoHub/static/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/js/maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/AutoHub/static/js/maps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/084243_2018_alfa_romeo_Giulia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/084243_2018_alfa_romeo_Giulia_mABfVM0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/190226_Alfa_Romeo_Giulietta_Super_02_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/190226_Alfa_Romeo_Giulietta_Super_02__jrdWuGG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018 BMW 5 series (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018-Alfa-Romeo-Giulia-Quadrifoglio-front-three-quarter-in-motion-04.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018-alfa-romeo-giulia-quadrifoglio-ll-109-2-1570475121_77761_375237_type13028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018-alfa-romeo-giulia-quadrifoglio-ll-109-2-1570475121_77761_375237_type13028_S8bH8ue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018-alfa-romeo-giulia-review-2018-cars-release-2019-in-2019-alfa-giulia-quadrifoglio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018-alfa-romeo-giulia-review-2018-cars-release-2019-in-2019-alfa-giulia-quadrifoglio_8H10Mod.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018_BMW_5_series_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018_alfa-romeo_giulia_actr34_td_908171_1600.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2018_alfa-romeo_giulia_actr34_td_908171_1600_M4Lusjt.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2019-Alfa-Romeo-Giulietta-Interior.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2019-Alfa-Romeo-Giulietta-Interior_BJPWGv0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2019-bmw-1er.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2019-bmw-1er_xxV6ovt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2214c68687f76a6671629c63f6f4937d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/2214c68687f76a6671629c63f6f4937d_Lp9l9Fv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/301_1205CGI002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/301_1205CGI002_KvAUs4S.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/3699afaf-2019-alfa-romeo-super-3-1024x682.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/3699afaf-2019-alfa-romeo-super-3-1024x682_yxL55kS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/520i 4_280314.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/520i.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/520i_11VOxuC.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/520i_4_280314.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/712c11b1f47607b65a025af3c4fd692e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/712c11b1f47607b65a025af3c4fd692e_Fd0zBYz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Bob.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Ellie_cP7oCkz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Evangelos.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Evangelos_GDhYTWd.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Helen_MzrtboA.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Helen_bdnj3uS.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Hyundai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Hyundai_SLOGAN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Hyundai_SLOGAN_LoNh9Q1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Hyundai_pV4eiP6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/KIA-Logo-PREVIEW.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/KIA-Logo-PREVIEW_Vn88p5s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Maserati_slogan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Maserati_slogan_KjVfJ84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/PEUGEOT-2008-26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/PEUGEOT2008Price.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/PEUGEOT_301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/PEUGEOT_301_FsGogHB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Peugeot-2008-2019-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Peugeot-208-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Peugeot-301-2017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Peugeot-301-2017_ry85UlA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Peugeot-logo-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Peugeot-logo-01_sDs9II4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/SEAT.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/SEAT2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/SEAT2_P0NKTNT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/SEAT_3TmUZzL.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Seat_slogan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Seat_slogan_bh9M8q3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa-romeo-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa-romeo-logo_rGZHmIc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa-romeo-slogan.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa-romeo-slogan_S9hASxT.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa-romeo-stelvio-quadrifoglio-.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa-romeo-stelvio-quadrifoglio-_i7Ugm3G.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa_romeo_stelvio_quadrifoglio_-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfa_romeo_stelvio_quadrifoglio_-1_mUGdO7s.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfaromeo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alfaromeo_ALsxtAQ.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/alice_rCWwXWN.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/antonia_hza9fZ2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-5-series_827x510_71485763091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-5-series_827x510_71485763091_364ktA9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-x-series-x1-inform-line-01-slide-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-x-series-x1-inform-line-01-slide-01_BYyApy7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-x-series-x1-inform-line-01-slide-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-x-series-x1-inform-line-01-slide-02_GfIfvST.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-x-series-x1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw-x-series-x1_V9PyzKl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw118_FKcZ6ay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw118_Y0xG0qS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw520.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw520_F4Same8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw520i.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw520i_qMUuHeM.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw520i_zqzukij.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw_logo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw_logo_UMOubuH.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bmw_slogan.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/dimitris_AwftZRH.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/download (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/download.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/download_1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/download_d8Gk7QD.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/elizabeth_8gxOuV9.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/giulieta.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/giulieta_interior.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/giulieta_interior_7msxoAb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/giulieta_jHiEIkb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images_G8FLUgN.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/kia_slogan.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/kia_slogan_zitmv8P.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/levante S interior.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/levanteS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/levante_S_interior.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_FscpIZt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_levante_16_1600x1200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_levante_16_1600x1200_GwprPEL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_levante_3_1600x1200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_levante_3_1600x1200_TpEdxMi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_quattroporte_26_1600x1200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_quattroporte_26_1600x1200_Oqwq7gd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_quattroporte_4_1600x1200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_quattroporte_4_1600x1200_0ivS9t9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_quattroporte_9_1600x1200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/maserati_quattroporte_9_1600x1200_eu47hl6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mercedes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mercedes_ncfDUzh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mercedes_slogan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mercedes_slogan_BsGlaKg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/opel_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/opel_logo_zptCbfT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/opel_slogan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/opel_slogan2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/opel_slogan2_xnxGtEI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/opel_slogan_Z5eNsDB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/p_1920_1360958.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/p_1920_1360958_q07ZOa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/p_1920_1729504.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/p_1920_1729504_4DaRPvn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peter_N5Eak4K.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/petros_UQIClBd.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot-208-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot-208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot-301-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot-301-2_xc6zo1k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot301.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot301_MfazVz3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot_slogan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/peugeot_slogan_CMkKNHm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/seat-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/seat-logo_K11V3g2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/map.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/brown.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/green-light-2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/green-light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/midnight-blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/olive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/yellow-light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/skins/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/Flaticon.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/_flaticon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/flaticon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/font/flaticon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/flaticon/license/license.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/font-awesome/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/Read Me.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/fonts/Linearicons-Free.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/fonts/Linearicons-Free.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/fonts/Linearicons-Free.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/fonts/Linearicons-Free.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/fonts/Linearicons-Free.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/selection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/linearicons/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/black-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/logos/black-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/logos/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/logos/logo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/maps.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/car_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/car_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/car_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/car_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/manufacturer_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/manufacturer_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/manufacturer_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/manufacturer_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/seller_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seller_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/seller_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seller_list.html" afterDir="false" />
     </list>
@@ -369,12 +135,24 @@
       <workItem from="1580244674378" duration="14629000" />
       <workItem from="1580317143154" duration="1799000" />
       <workItem from="1580318999122" duration="9000" />
-      <workItem from="1580466008048" duration="2694000" />
+      <workItem from="1580466008048" duration="3519000" />
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1580475069809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580475069809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="32" width="804" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580244687252">
@@ -389,22 +167,22 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="466" y="129" width="428" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1579615896791" />
-    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1580474992746">
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1580475927740">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1580474992746" />
-    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1580474992746">
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1580475927740" />
+    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1580475927735">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1580474992746" />
-    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1580474992745">
+    <state width="1320" height="154" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1580475927735" />
+    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1580475927735">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1580474992745" />
-    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1580474992746">
+    <state width="1320" height="154" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1580475927735" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1580475927736">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1580474992746" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1580475927736" />
     <state width="1320" height="220" key="GridCell.Tab.1.bottom" timestamp="1579711072308">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
