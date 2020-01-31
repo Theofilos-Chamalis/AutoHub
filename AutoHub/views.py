@@ -21,7 +21,7 @@ def car_list(request):
         if txt == '':
             cars = Car.objects.order_by('title')
         else:
-            cars = Car.objects.filter((Q(text__contains=txt) | Q(title__contains=txt)) & Q(published_date__lte=timezone.now())).order_by('title')
+            cars = Car.objects.filter((Q(title__contains=txt))).order_by('title')
     else:
 
         cars = Car.objects.filter(Fuel=cat).order_by('title')
