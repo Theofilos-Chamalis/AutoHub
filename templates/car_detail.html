@@ -179,14 +179,14 @@
                                                     <li>
                                                         <i class="fa fa-check"></i> Transmission: {{ car.Transmission }}
                                                     </li>
-                                                    {% if car.Fuel %}
                                                         <li>
                                                             <i class="fa fa-check"></i>Fuel Type: {{ car.Fuel }}
                                                         </li>
-                                                    {% endif %}
+                                                    {% if car.Car_Category %}
                                                     <li>
                                                         <i class="fa fa-check"></i>Car Category: {{ car.Car_Category }}
                                                     </li>
+                                                    {% endif %}
                                                     <li>
                                                         <i class="fa fa-check"></i>Year: {{ car.Year }}
                                                     </li>

@@ -24,7 +24,7 @@ def car_list(request):
             cars = Car.objects.filter((Q(title__contains=txt))).order_by('title')
     else:
 
-        cars = Car.objects.filter(Fuel=cat).order_by('title')
+        cars = Car.objects.filter(Car_Category=cat).order_by('title')
     return render(request, 'car_list.html', {'cars': cars})
 
 
