@@ -3,40 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ff00e70-3f5f-4bae-b75d-006aeea5003b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/brown.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/green-light-2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/green-light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/midnight-blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/olive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/yellow-light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/css/skins/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoHub/static/img/favicon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEUGEOT-2008-26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEUGEOT2008Price.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Peugeot-2008-2019-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Peugeot-208-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/peugeot-208-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/peugeot-208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/building.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/chevron-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/chevron-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/cube.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/light_bg.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +134,9 @@
       <workItem from="1580811463346" duration="391000" />
       <workItem from="1580835982333" duration="1726000" />
       <workItem from="1580843944032" duration="7000" />
-      <workItem from="1580843962674" duration="1660000" />
+      <workItem from="1580843962674" duration="1681000" />
+      <workItem from="1580846329407" duration="49000" />
+      <workItem from="1580909492450" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1580475069809</created>
@@ -205,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580836503712</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="images">
+      <created>1580846270279</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580846270279</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
     <MESSAGE value="change filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="change filter" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="32" width="804" height="674" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580244687252">
@@ -229,22 +205,22 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="466" y="129" width="428" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1579615896791" />
-    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1580845323518">
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1580910223759">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1580845323518" />
-    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1580845323518">
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1580910223759" />
+    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1580910223759">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1580845323518" />
-    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1580845323517">
+    <state width="1320" height="154" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1580910223759" />
+    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1580910223758">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1580845323517" />
-    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1580845323518">
+    <state width="1320" height="154" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1580910223758" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1580910223759">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="154" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1580845323518" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1580910223759" />
     <state width="1320" height="220" key="GridCell.Tab.1.bottom" timestamp="1579711072308">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
@@ -265,10 +241,10 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="179" y="6" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1579702881655" />
-    <state x="359" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1580835982628">
+    <state x="359" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1580909493211">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="359" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.740@0.0.1366.740" timestamp="1580835982628" />
+    <state x="359" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.740@0.0.1366.740" timestamp="1580909493211" />
     <state x="475" y="291" width="416" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580843710259">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
