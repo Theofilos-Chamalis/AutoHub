@@ -2183,7 +2183,8 @@ input[type=checkbox]:checked + label:before {
 }
 
 .team-1 .team-details {
-    width: 10%;
+    position: relative;
+    width: 90%;
     margin: -30px 5% 30px 5%;
     padding: 20px 20px 15px;
     background: #fff;
@@ -4556,7 +4557,7 @@ footer {
 }
 
 .badge-pink {
-    background-color: #ff214f;
+    background-color: #ff8acc;
     color: #fff;
 }
 
@@ -5828,10 +5829,7 @@ table {
 }
 
 .midnight-blue-plate {
-    background: #ff214f;
-    text-align: center;
-    width: 70px;
-    height: 40px;
+    background: #ff214f
 }
 
 .brown-plate {

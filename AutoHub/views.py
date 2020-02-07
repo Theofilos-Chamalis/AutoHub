@@ -1,5 +1,4 @@
 from django.shortcuts import render, get_object_or_404
-from django.utils import timezone
 from AutoHub.models import Car
 from AutoHub.models import Seller
 from AutoHub.models import Manufacturer
