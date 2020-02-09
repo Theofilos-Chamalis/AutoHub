@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../skatoApoToGithub/AutoHub" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1581009615755" duration="1834000" />
       <workItem from="1581079692906" duration="1407000" />
       <workItem from="1581087280938" duration="327000" />
-      <workItem from="1581237566044" duration="6164000" />
+      <workItem from="1581237566044" duration="6852000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1580475069809</created>
@@ -232,26 +232,26 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="153" y="0" width="1053" height="737" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1581240020669" />
-    <state x="466" y="129" width="428" height="481" key="FileChooserDialogImpl" timestamp="1579615896791">
+    <state x="466" y="129" width="428" height="481" key="FileChooserDialogImpl" timestamp="1581249572271">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="466" y="129" width="428" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1579615896791" />
-    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1581249114045">
+    <state x="466" y="129" width="428" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1581249572271" />
+    <state width="1320" height="234" key="GridCell.Tab.0.bottom" timestamp="1581250083381">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1581249114045" />
-    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1581249114044">
+    <state width="1320" height="234" key="GridCell.Tab.0.bottom/0.0.1366.740@0.0.1366.740" timestamp="1581250083381" />
+    <state width="1320" height="234" key="GridCell.Tab.0.center" timestamp="1581250083381">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1581249114044" />
-    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1581249114042">
+    <state width="1320" height="234" key="GridCell.Tab.0.center/0.0.1366.740@0.0.1366.740" timestamp="1581250083381" />
+    <state width="1320" height="234" key="GridCell.Tab.0.left" timestamp="1581250083381">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1581249114042" />
-    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1581249114045">
+    <state width="1320" height="234" key="GridCell.Tab.0.left/0.0.1366.740@0.0.1366.740" timestamp="1581250083381" />
+    <state width="1320" height="234" key="GridCell.Tab.0.right" timestamp="1581250083381">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1581249114045" />
+    <state width="1320" height="234" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1581250083381" />
     <state width="1320" height="220" key="GridCell.Tab.1.bottom" timestamp="1580996187696">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
